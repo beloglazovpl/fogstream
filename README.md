@@ -13,6 +13,8 @@
 pip install -r requirements.txt
 ```
 
+Создать базу данных postgresql `city`
+
 Заполнить БД данными из файла `city.csv`
 ```python
 python db_filling.py
